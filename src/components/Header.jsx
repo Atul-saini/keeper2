@@ -8,7 +8,7 @@ function Header() {
       <nav className="navbar navbar-default">
         <div className="container">
           <div className="navbar-header">
-            <h1>Keeper</h1>
+            <h1>Keeper App</h1>
           </div>
           <ul rows="3" className="nav navbar-nav navbar-right">
             <li>

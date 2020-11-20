@@ -18,7 +18,13 @@ function About() {
           alt="imagenotfound"
         />
         <h1>Save and Surf your Notes</h1>
-        <h7> Devlopment under process....... </h7>
+      </div>
+      <div>
+        <h3>
+          {" "}
+          Sort your day..
+          <br /> Keep smiling and move forward💩.
+        </h3>
       </div>
       <Footer />
     </div>

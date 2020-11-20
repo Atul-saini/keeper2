@@ -24,10 +24,13 @@ header h1 {
   font-weight: 500;
 }
 header h2 {
-  color: #fff;
+  color: rgb(10, 20, 19);
   font-family: "McLaren", cursive;
   font-weight: 1;
   font-size: 1.5rem;
+}
+h3 {
+  color: rgb(37, 119, 111);
 }
 footer {
   position: absolute;
