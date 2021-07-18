@@ -22,7 +22,7 @@ function About() {
       <div>
         <h3>
           {" "}
-          Sort your day..
+          Short your day..
           <br /> Keep smiling and move forward💩.
         </h3>
       </div>
